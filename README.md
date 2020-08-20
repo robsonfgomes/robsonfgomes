@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# I'm Robson Gomes, a fullstack Javascript developer that loves to work with challenging and creative projects.
+
 <!--
 **robsonfgomes/robsonfgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
