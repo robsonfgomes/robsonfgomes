@@ -17,22 +17,22 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
+[![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![Docker](https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-21313c?style=flat-square&logo=mongodb&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
