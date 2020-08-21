@@ -4,7 +4,7 @@
 
 ### I'm Robson Gomes, a fullstack Javascript developer that loves to work with challenging and creative projects.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-gomes-575396b5/)](https://www.linkedin.com/in/caetanoburjack) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-gomes-575396b5/)](https://www.linkedin.com/in/robson-gomes-575396b5/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fgomes.robson@gmail.com)](mailto:fgomes.robson@gmail.com)
 [![GitHub Robson Gomes](https://img.shields.io/github/followers/robsonfgomes?label=follow&style=social)](https://github.com/robsonfgomes)
 &nbsp; 
