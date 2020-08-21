@@ -23,7 +23,7 @@
 - Node
 - React
 - React Native
-- I'm taking the RocketSeat GoStack Bootcamp
+- I'm taking the <a href="https://rocketseat.com.br/" target="_blank">RocketSeat</a> GoStack Bootcamp
 
 &nbsp;
 &nbsp;
