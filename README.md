@@ -24,7 +24,6 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&logoColor=red&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
@@ -52,7 +51,7 @@
 &nbsp;
 
 
-![Robson Gomes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonfgomes&layout=compact)
+[![Robson Gomes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonfgomes&layout=compact)](https://github.com/robsonfgomes/)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙃</em>
 
