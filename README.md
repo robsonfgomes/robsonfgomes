@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img width="25%" align="right" alt="" src="https://github.com/robsonfgomes/robsonfgomes/blob/master/images/launch_day.svg" />
+<img width="20%" align="right" alt="" src="https://github.com/robsonfgomes/robsonfgomes/blob/master/images/launch_day.svg" />
 
 ### I'm Robson Gomes, a fullstack Javascript developer that loves to work with challenging and creative projects.
 
