@@ -51,6 +51,7 @@
 - Node
 - React
 - React Native
+- TypeScript
 - I'm taking the <a href="https://rocketseat.com.br/" target="_blank">RocketSeat</a> GoStack Bootcamp
 
 &nbsp;
@@ -60,10 +61,6 @@
 [![Robson Gomes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonfgomes&layout=compact)](https://github.com/robsonfgomes/)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙃</em>
-
-<!--
-![Robson Gomes's github stats](https://github-readme-stats.vercel.app/api?username=robsonfgomes&show_icons=true) 
--->
 
 <!--
 Here are some ideas to get you started:
