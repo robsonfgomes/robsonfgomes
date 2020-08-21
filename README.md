@@ -15,7 +15,7 @@
 
 ## Progamming languages & tools
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
