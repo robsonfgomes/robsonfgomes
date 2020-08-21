@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img width="10%" align="right" alt="" src="https://github.com/robsonfgomes/robsonfgomes/blob/master/images/man_working.svg" />
+<img width="12%" align="right" alt="" src="https://github.com/robsonfgomes/robsonfgomes/blob/master/images/man_working.svg" />
 
 ### I'm Robson Gomes, a fullstack Javascript developer that loves to work with challenging and creative projects.
 
@@ -29,7 +29,8 @@
 &nbsp;
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonfgomes&layout=compact)](https://github.com/robsonfgomes/github-readme-stats)
+![Robson Gomes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonfgomes&layout=compact)
+
 <!--
 ![Robson Gomes's github stats](https://github-readme-stats.vercel.app/api?username=robsonfgomes&show_icons=true) 
 -->
