@@ -2,11 +2,12 @@
 
 <img width="25%" align="right" alt="" src="https://github.com/robsonfgomes/robsonfgomes/blob/master/images/launch_day.svg" />
 
-### I'm Robson Gomes, a fullstack Javascript developer that loves to work with challenging and creative projects.
+### I'm Robson Gomes, a full stack software engineer that loves to work with challenging and creative projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-gomes-575396b5/)](https://www.linkedin.com/in/robson-gomes-575396b5/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fgomes.robson@gmail.com)](mailto:fgomes.robson@gmail.com)
 [![GitHub Robson Gomes](https://img.shields.io/github/followers/robsonfgomes?label=follow&style=social)](https://github.com/robsonfgomes)
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/robsonfgomes&label=Profile%20Views&query=value" alt="robsonfgomes's Profile Views">
 &nbsp; 
 &nbsp;
 &nbsp;
@@ -30,6 +31,8 @@
 
 
 ![Robson Gomes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonfgomes&layout=compact)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--
 ![Robson Gomes's github stats](https://github-readme-stats.vercel.app/api?username=robsonfgomes&show_icons=true) 
