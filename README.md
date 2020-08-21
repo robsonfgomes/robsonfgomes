@@ -24,11 +24,12 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
+[![Docker](https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-[![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
+[![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-21313c?style=flat-square&logo=mongodb&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
