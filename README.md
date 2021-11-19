@@ -2,7 +2,7 @@
 
 <img width="25%" align="right" alt="" src="https://github.com/robsonfgomes/robsonfgomes/blob/master/images/launch_day.svg" />
 
-### I'm Robson Gomes, a full stack software engineer that loves to work with challenging and creative projects.
+### I'm Robson Gomes, a full stack software engineer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-gomes-575396b5/)](https://www.linkedin.com/in/robson-gomes-575396b5/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fgomes.robson@gmail.com)](mailto:fgomes.robson@gmail.com)
@@ -25,7 +25,6 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![Docker](https://img.shields.io/badge/-Vagrant-1563FF?style=flat-square&logo=vagrant&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
@@ -35,12 +34,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
