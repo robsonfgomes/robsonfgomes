@@ -17,7 +17,6 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
-[![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=FFF&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
@@ -37,15 +36,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/robsonfgomes/)](https://github.com/robsonfgomes/)
 
 
-&nbsp;
-&nbsp;
-
-## I’m currently learning ...
-- Node
-- React
-- React Native
-- TypeScript
-- I'm taking the <a href="https://rocketseat.com.br/" target="_blank">RocketSeat</a> GoStack Bootcamp
 
 &nbsp;
 &nbsp;
